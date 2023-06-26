@@ -17,3 +17,8 @@ Draw on screen using finger gestures.
 
 ![erasing](https://user-images.githubusercontent.com/58856727/160285658-9e4fcd8d-3a81-4ab3-adc5-d5e7badd4f5b.jpg)
 
+## Todo
+
+- make a react version of this.
+- deploy it to web.
+
